@@ -1,0 +1,22 @@
+{
+  "name": "css_zaawansowany",
+  "version": "1.0.0",
+  "description": "lekcje kursu online - css zaawansowany",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel run index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michu1234/CSS_ZAAWANSOWANY.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michu1234/CSS_ZAAWANSOWANY/issues"
+  },
+  "homepage": "https://github.com/michu1234/CSS_ZAAWANSOWANY#readme",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
