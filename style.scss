@@ -1,22 +1,30 @@
-html, body {
+html,
+body {
   margin: 0;
   color: #fff;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   background-color: #ae83d2;
   font-size: 16px;
 }
 
-
 .card {
   padding: 20px;
-
 
   &__image {
     max-width: 300px;
     float: left;
     padding: 0 40px 40px 0;
-    shape-outside: polygon(4px 110px, 14px 676px, 300px 691px, 80.49% 80.67%, 81.31% 52.84%, 93.97% 44.55%, 311px 155px, 58.07% 23.27%, 44.92% 37.77%, 25.15% 23.16%);
+    shape-outside: polygon(
+      4px 110px,
+      14px 676px,
+      300px 691px,
+      80.49% 80.67%,
+      81.31% 52.84%,
+      93.97% 44.55%,
+      311px 155px,
+      58.07% 23.27%,
+      44.92% 37.77%,
+      25.15% 23.16%
+    );
   }
 }
-
-
